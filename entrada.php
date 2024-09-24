@@ -37,7 +37,8 @@
                     <br><br>
                     <input type="submit" id="bt2" value="Somar">
                 </fieldset>
-
+                //<input type="number" id="num2" min="0" max="100" step="0.01" name="num2" required>
+                //
             </form>
 
             <br>
